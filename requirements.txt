@@ -1,0 +1,10 @@
+openai
+langchain
+langchain-community
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+python-dotenv
+jupyter
